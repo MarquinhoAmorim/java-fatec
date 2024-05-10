@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Casa
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Casa\ aqui.\r\n\ \r\n\ @author\ (Marco\ Amorim)\ \r\n\ @version\ (0.0.1)\r\n
+comment1.params=sala\ quarto\ cozinha\ banheiro
+comment1.target=Casa(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Casa\r\n
+comment2.params=
+comment2.target=void\ exibeInformacoes()
+comment2.text=\r\n\ M\u00E9todo\ que\ exibe\ informa\u00E7\u00F5es\ sobre\ a\ Casa\r\n
+numComments=3
