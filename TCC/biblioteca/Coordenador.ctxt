@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Coordenador
+comment1.params=nome\ sigla\ email\ ramal\ cargaHoraria
+comment1.target=Coordenador(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ M\u00E9todo\ Construtor\ respons\u00E1vel\ por\ criar\ objetos\ do\ tipo\ Coordenador\r\n
+comment2.params=
+comment2.target=void\ exibeInformacoes()
+comment2.text=\r\n\ M\u00E9todo\ que\ exibe\ informa\u00E7\u00F5es\ sobre\ o\ Coordenador\r\n
+numComments=3

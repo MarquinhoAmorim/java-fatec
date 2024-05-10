@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Aluno\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=nome\ ra
+comment1.target=Aluno(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ M\u00E9todo\ Construtor\ respons\u00E1vel\ por\ criar\ objetos\ do\ tipo\ Aluno\r\n
+comment2.params=
+comment2.target=void\ exibeInformacoes()
+comment2.text=\r\n\ M\u00E9todo\ que\ exibe\ informa\u00E7\u00F5es\ sobre\ o\ Aluno\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment3.text=\r\n\ M\u00E9todo\ acessor\ do\ atributo\ nome\r\n
+comment4.params=c
+comment4.target=void\ fazMatricula(Curso)
+comment4.text=\r\n\ M\u00E9todo\ que\ matricula\ Aluno\ em\ Curso\r\n
+numComments=5

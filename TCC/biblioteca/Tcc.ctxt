@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tcc
+comment1.params=titulo\ ano\ situacao\ nota
+comment1.target=Tcc(java.lang.String,\ int,\ java.lang.String,\ float)
+comment1.text=\r\n\ M\u00E9todo\ Construtor\ respons\u00E1vel\ por\ criar\ objetos\ do\ tipo\ Tcc\r\n
+comment2.params=
+comment2.target=void\ exibeInformacoes()
+comment2.text=\r\n\ M\u00E9todo\ que\ exibe\ informa\u00E7\u00F5es\ sobre\ o\ Tcc\r\n
+comment3.params=a
+comment3.target=void\ vincularAluno(Aluno)
+comment3.text=\r\n\ M\u00E9todo\ que\ vincula\ o\ Aluno\ ao\ Tcc\r\n
+comment4.params=b
+comment4.target=void\ vincularBanca(Banca)
+comment4.text=\r\n\ M\u00E9todo\ que\ vincula\ a\ Banca\ ao\ Tcc\r\n
+numComments=5
